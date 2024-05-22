@@ -1,12 +1,4 @@
-# Title
+# 2048 Game
 
-Description
+Remaking the 2048 game where you conbine tiles in a grid to scale your numbers upto 2048
 
-hello lol
-
-
-hiiiiii
-
-testing
-
-yes
