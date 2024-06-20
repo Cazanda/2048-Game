@@ -1,5 +1,7 @@
 import pygame
 
+# ghjkldfghjk
+
 pygame.init()
 
 screen_height = 500
